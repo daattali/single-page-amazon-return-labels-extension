@@ -1,6 +1,6 @@
 {
   "name": "Single-Page Amazon Return Labels",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "manifest_version": 3,
   "description": "When printing return labels on Amazon, remove unnecessary information so that the label might fit on one page.",
   "icons": {
@@ -18,5 +18,14 @@
       "run_at": "document_start"
     }
   ],
+  "action": {
+    "default_title": "Settings for Single-Page Amazon Return Labels",
+    "default_popup": "html/options.html",
+    "default_icon": {
+      "16": "img/icon-16.png",
+      "32": "img/icon-32.png"
+    }
+  },
+  "permissions": ["storage"],
   "homepage_url": "https://github.com/daattali/single-page-amazon-return-labels-extension"
 }
