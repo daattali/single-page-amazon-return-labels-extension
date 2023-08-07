@@ -26,11 +26,11 @@ TODO
 
 ## Screenshots
 
-Before (notice the label takes up two pages):
+**Before** (notice the label takes up two pages):
 
-[![] (https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)
+[![](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)
 
-After (the label prints on a single page):
+**After** (the label prints on a single page):
 
 [![](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-after.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-after.png)
 
