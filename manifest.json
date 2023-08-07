@@ -1,0 +1,22 @@
+{
+  "name": "Print Amazon return labels as a single page",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "When printing return labels on Amazon, remove unnecessary information so that the label might fit on one page.",
+  "icons": {
+    "16": "img/icon-16.png",
+    "48": "img/icon-48.png",
+    "128": "img/icon-128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.amazon.ca/*returns/label/*",
+        "https://www.amazon.com/*returns/label/*"
+      ],
+      "js": ["js/amazonreturnonepager.js"],
+      "run_at": "document_start"
+    }
+  ],
+  "homepage_url": "https://github.com/daattali/amazon-one-page-return-printer-extension"
+}
