@@ -1,12 +1,12 @@
-# Print Amazon return labels as a single page (Chrome / Firefox / Edge extension)
+# Single-Page Amazon Return Labels (Chrome / Firefox / Edge extension)
 
 > *Copyright 2023 [Dean Attali](https://deanattali.com)*
 
 _Installation: TODO_
 
-Every time I want to print a return label from Amazon, the default label results in more than 1 page of printing. There is a lot of unnecessary text on the return label such as the instructions and the "Must be returned by ..." -- if you remove those, then the label will usually fit on one page. This extension automatically hides the unnecessary pieces from getting printed so that you can save paper.
+Every time I want to print a return label from Amazon, the Print Preview shows that it'll result in more than 1 page. This happens because there is a lot of unnecessary text on the return label, such as the instructions and the "Must be returned by ...". If you remove those, then the label will usually fit on one page. This extension automatically hides the unnecessary pieces from getting printed so that you can save time and paper.
 
-This will not *always* work, because some shipping methods require multiple labels and they cannot fit on one page, but based on my testing is works often. 
+Obviously this will not *always* work, because some shipping methods require multiple labels and will never be able to fit on one page, but it seems to work on the majority of return labels I tried. 
 
 **If you enjoy my work (or just want to get special perks!), you should [support me on GitHub](https://github.com/sponsors/daattali).**
 
@@ -28,7 +28,7 @@ TODO
 
 Before (notice the label takes up two pages):
 
-[![](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)
+[![] (https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)
 
 After (the label prints on a single page):
 

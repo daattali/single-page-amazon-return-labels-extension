@@ -1,5 +1,5 @@
 {
-  "name": "Print Amazon Return Labels as a Single Page",
+  "name": "Single-Page Amazon Return Labels",
   "version": "1.0.0",
   "manifest_version": 3,
   "description": "When printing return labels on Amazon, remove unnecessary information so that the label might fit on one page.",
