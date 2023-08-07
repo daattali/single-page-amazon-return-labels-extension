@@ -7,5 +7,5 @@ document.addEventListener("DOMContentLoaded", function() {
         el.classList.add("no-print");
       }
     }
-  });
+  );
 });
