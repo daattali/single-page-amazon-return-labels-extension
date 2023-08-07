@@ -4,12 +4,11 @@
 
 _Installation: TODO_
 
-Every time I want to print a return label from Amazon, the default label results in more than 1 page of printing. There is a lot of unnecessary text on the return label such as the "Must be returned by ..." and the instructions, and if you remove those, then the label will usually fit on one page. This extension automatically hides those unnecessary pieces from getting printed so that you can save paper. 
+Every time I want to print a return label from Amazon, the default label results in more than 1 page of printing. There is a lot of unnecessary text on the return label such as the instructions and the "Must be returned by ..." -- if you remove those, then the label will usually fit on one page. This extension automatically hides the unnecessary pieces from getting printed so that you can save paper.
 
-This will not *always* work, because some shipping methods require multiple labels and they cannot fit on one page, but based on my testing is works often.
+This will not *always* work, because some shipping methods require multiple labels and they cannot fit on one page, but based on my testing is works often. 
 
 **If you enjoy my work (or just want to get special perks!), you should [support me on GitHub](https://github.com/sponsors/daattali).**
-
 
 <p align="center">
 
@@ -27,11 +26,11 @@ TODO
 
 ## Screenshots
 
-Before:
+Before (notice the label takes up two pages):
 
 [![](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-before.png)
 
-After:
+After (the label prints on a single page):
 
 [![](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-after.png)](https://github.com/daattali/amazon-one-page-return-printer-extension/blob/master/img/doc/screenshot-after.png)
 
