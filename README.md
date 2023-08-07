@@ -32,7 +32,7 @@ Clicking on the extension's icon in the toolbar will show the settings page. Aft
 - **Remove unnecessary content when viewing web page**: When this is turned on, unnecessary content will be hidden when viewing the page.
 - **Remove "Item Descriptions" list**: The Item Descriptions table that appears below the return label can be useful for you, but it's not required for shipping. If you want to minimize printing, then turn this off. I personally like to know what item the label is for, so I keep this on.
 
-**Settings are not supported in Firefox yet, see [here](https://github.com/daattali/single-page-amazon-return-labels-extension/issues/1)**
+**Settings are not supported in Firefox yet, see [here](https://github.com/daattali/single-page-amazon-return-labels-extension/issues/1)**.
 
 ## Screenshots
 
