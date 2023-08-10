@@ -8,6 +8,8 @@ Every time I want to print a return label from Amazon, the Print Preview shows t
 
 Obviously this will not *always* work, because some shipping methods require multiple labels and will never be able to fit on one page, but it seems to work on the majority of return labels I tried. 
 
+Countries supported: amazon.com, amazon.ca, amazon.de -- contact me if you want to add support to your country.
+
 **If you enjoy my work (or just want to get special perks!), you should [support me on GitHub](https://github.com/sponsors/daattali).**
 
 <p align="center">
