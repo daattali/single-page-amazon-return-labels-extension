@@ -12,7 +12,8 @@
     {
       "matches": [
         "https://www.amazon.ca/*returns/label/*",
-        "https://www.amazon.com/*returns/label/*"
+        "https://www.amazon.com/*returns/label/*",
+	"https://www.amazon.de/*/returns/label/*"
       ],
       "js": ["js/amazonreturnonepager.js"],
       "run_at": "document_start"
