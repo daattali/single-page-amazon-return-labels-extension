@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
-  chrome.storage.sync.get(['sparl_remove_print', 'sparl_remove_web', 'sparl_remove_items']).then(
+  const mybrowser = (window.browser)? window.browser : window.chrome;
+  mybrowser.storage.sync.get(['sparl_remove_print', 'sparl_remove_web', 'sparl_remove_items']).then(
     function(items) {
       let classes_to_add = [];
       let remove_print = (typeof items.sparl_remove_print === 'undefined') ? true : items.sparl_remove_print;
