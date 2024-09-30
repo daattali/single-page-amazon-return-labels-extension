@@ -2,7 +2,7 @@
 
 > *Created by [Dean Attali](https://deanattali.com)*
 
-_Install the [Chrome extension](https://chrome.google.com/webstore/detail/single-page-amazon-return/ojbaedhfdbgjnbaejemkihhhhpmnogln) or [Firefox extension](https://addons.mozilla.org/en-CA/firefox/addon/one-page-amazon-return-labels/)_
+_Install the [Chrome extension](https://chrome.google.com/webstore/detail/single-page-amazon-return/ojbaedhfdbgjnbaejemkihhhhpmnogln) or [Firefox extension](https://addons.mozilla.org/en-CA/firefox/addon/one-page-amazon-return-labels/) or [Edge extension](https://microsoftedge.microsoft.com/addons/detail/accdbfgoenjdokcjejdkkahlhidkbllb)_
 
 Every time I want to print a return label from Amazon, the Print Preview shows that it'll result in more than 1 page. This happens because there is a lot of unnecessary text on the return label, such as the instructions and the "Must be returned by ...". If you remove those, then the label will usually fit on one page. This extension automatically hides the unnecessary pieces from getting printed so that you can save time and paper.
 
@@ -20,7 +20,7 @@ Countries supported: amazon.com, amazon.ca, amazon.de, amazon.co.uk -- contact m
 
 ## Installation
 
-Go to the [Chrome extension store](https://chrome.google.com/webstore/detail/single-page-amazon-return/ojbaedhfdbgjnbaejemkihhhhpmnogln) or [Firefox extensions page](https://addons.mozilla.org/en-CA/firefox/addon/one-page-amazon-return-labels/) to instantly install with one click.
+Go to the [Chrome extension store](https://chrome.google.com/webstore/detail/single-page-amazon-return/ojbaedhfdbgjnbaejemkihhhhpmnogln) or [Firefox extensions page](https://addons.mozilla.org/en-CA/firefox/addon/one-page-amazon-return-labels/) or [Edge extensions](https://microsoftedge.microsoft.com/addons/detail/accdbfgoenjdokcjejdkkahlhidkbllb) to instantly install with one click.
 
 ## Settings
 
