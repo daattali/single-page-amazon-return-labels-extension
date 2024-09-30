@@ -1,6 +1,6 @@
 {
   "name": "Single-Page Amazon Return Labels",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "manifest_version": 3,
   "description": "When printing return labels on Amazon, remove unnecessary information so that the label might fit on one page.",
   "icons": {
@@ -13,7 +13,8 @@
       "matches": [
         "https://www.amazon.ca/*returns/label/*",
         "https://www.amazon.com/*returns/label/*",
-	"https://www.amazon.de/*/returns/label/*"
+        "https://www.amazon.de/*/returns/label/*",
+        "https://www.amazon.co.uk/*/returns/label/*"
       ],
       "js": ["js/amazonreturnonepager.js"],
       "run_at": "document_start"
