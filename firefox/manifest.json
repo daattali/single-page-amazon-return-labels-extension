@@ -14,7 +14,8 @@
         "https://www.amazon.ca/*returns/label/*",
         "https://www.amazon.com/*returns/label/*",
         "https://www.amazon.de/*/returns/label/*",
-        "https://www.amazon.co.uk/*/returns/label/*"
+        "https://www.amazon.co.uk/*/returns/label/*",
+        "https://www.amazon.fr/*/returns/label/*"
       ],
       "js": ["js/amazonreturnonepager.js"],
       "run_at": "document_start"
